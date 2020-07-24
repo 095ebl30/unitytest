@@ -1,0 +1,22 @@
+using System.Collections;
+using UnityEngine;
+
+public class Demoscript: MonoBehavior  {
+ 
+ //variables
+ //functions
+ //classes
+ 
+ //use this initialization
+ 
+ void Start () {
+ 
+ }
+ 
+ 
+ //update is called once per frame
+ 
+ void Update ()  {
+ 
+      }
+ }
